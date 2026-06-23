@@ -17,7 +17,7 @@ Each capability claim is mapped to one or more verification methods:
 
 ---
 
-## Capability 1: Founding Year — 2011 (15 Years)
+## Capability 1: Industry Expertise — 15+ Years (Since 2011)
 
 | Claim | Verification | Level |
 |:---|:---|:---|
